@@ -40,3 +40,5 @@ Steps included in this project:
 CHEERS!
 
 <img src="http://media-cdn.tripadvisor.com/media/photo-s/10/28/86/6f/wine-cheers.jpg">
+
+#Feel free to drop a star if you like it.
